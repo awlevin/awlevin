@@ -18,6 +18,16 @@ i like shipping things fast, running long distances slowly, and finding the fun 
 
 ---
 
+#### OG projects
+
+| | |
+|---|---|
+| 🕹️ **[DDR on Tiva Launchpad](https://github.com/shyamal-anadkat/DDR-On-Tiva-Launchpad)** | dance dance revolution on a cortex-M4 microcontroller |
+| 🖥️ **[WiscArchitecture](https://github.com/awlevin/WiscArchitecture)** | a fully functional processor with a proprietary instruction set architecture |
+| 🌽 **[Cornhole Fiesta](https://github.com/awlevin/cornhole-fiesta)** | cornhole stats and analysis |
+
+---
+
 #### a few things about me
 
 - 🏃 type 2 fun enthusiast — ran the [taco bell 50k](https://tacobell50k.com/)
