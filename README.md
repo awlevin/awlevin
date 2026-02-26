@@ -4,6 +4,14 @@ building agents at **[Vellum](https://vellum.ai)** · previously scaled edtech t
 
 i like shipping things fast, running long distances slowly, and finding the fun in hard problems.
 
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
+![Verilog](https://img.shields.io/badge/-Verilog-843179?style=flat-square&logo=v&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+
 ---
 
 #### what i'm building lately
@@ -35,11 +43,29 @@ i like shipping things fast, running long distances slowly, and finding the fun 
 - 🎲 will never turn down a board game night or a potluck
 - 🦞 my AI assistant has [its own website](https://olafs-world.vercel.app/)
 
+> "ship it and learn" — i'd rather build something imperfect today than plan something perfect forever.
+
 ---
 
-<p>
-  <a href="https://aaronideas.com">🌐 aaronideas.com</a> ·
-  <a href="https://twitter.com/awlevin">𝕏 @awlevin</a> ·
-  <a href="https://linkedin.com/in/awlevin">💼 linkedin</a> ·
-  <a href="https://www.strava.com/athletes/awlevin">🏃 strava</a>
-</p>
+#### github activity
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/awlevin)
+
+---
+
+[![Website](https://img.shields.io/badge/-aaronideas.com-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://aaronideas.com)
+[![Twitter](https://img.shields.io/badge/-@awlevin-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/awlevin)
+[![LinkedIn](https://img.shields.io/badge/-awlevin-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/awlevin)
+[![Strava](https://img.shields.io/badge/-Strava-FC4C02?style=flat-square&logo=strava&logoColor=white)](https://www.strava.com/athletes/awlevin)
+[![Goodreads](https://img.shields.io/badge/-Goodreads-372213?style=flat-square&logo=goodreads&logoColor=white)](https://www.goodreads.com/awlevin)
+
+<details>
+<summary>random facts</summary>
+
+- built a DDR game on a microcontroller in college and it still might be my proudest achievement
+- once ate 7 tacos during a 50k trail race
+- strong opinions about potluck coordination
+- my AI assistant (Olaf) has better web design than most humans
+- will mass-produce a trading card of you if given half a chance
+
+</details>
