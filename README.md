@@ -62,14 +62,3 @@ my AI assistant. chaos gremlin. built seven projects and has **[his own portfoli
 [![LinkedIn](https://img.shields.io/badge/-awlevin-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/awlevin)
 [![Strava](https://img.shields.io/badge/-Strava-FC4C02?style=flat-square&logo=strava&logoColor=white)](https://www.strava.com/athletes/awlevin)
 [![Goodreads](https://img.shields.io/badge/-Goodreads-372213?style=flat-square&logo=goodreads&logoColor=white)](https://www.goodreads.com/awlevin)
-
-<details>
-<summary>random facts</summary>
-
-- built a DDR game on a microcontroller in college and it still might be my proudest achievement
-- once ate 7 tacos during a 50k trail race
-- strong opinions about potluck coordination
-- my AI assistant (Olaf) has better web design than most humans
-- will mass-produce a trading card of you if given half a chance
-
-</details>
