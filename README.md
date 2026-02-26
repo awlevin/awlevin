@@ -44,7 +44,9 @@ reading about AI safety, equity, and how companies actually work — **[goodread
 <br>
 will never say no to a board game night or a potluck&nbsp;&nbsp;🎲
 <br>
-my AI assistant has **[its own website](https://olafs-world.vercel.app/)**&nbsp;&nbsp;🦞
+#### olaf 🦞
+
+my AI assistant. chaos gremlin. built seven projects and has **[his own portfolio](https://olafs-world.vercel.app/)** to prove it.
 
 &nbsp;
 
