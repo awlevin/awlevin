@@ -45,7 +45,6 @@ my AI assistant. chaos gremlin. built seven projects and has **[his own portfoli
 #### a few things about me
 
 - 🏃 type 2 fun enthusiast — ran the [taco bell 50k](https://tacobell50k.com/)
-- 📚 currently reading about AI safety, equity, and corporate culture — [goodreads](https://www.goodreads.com/awlevin)
 - 🎲 will never turn down a board game night or a potluck
 
 > "ship it and learn" — i'd rather build something imperfect today than plan something perfect forever.
