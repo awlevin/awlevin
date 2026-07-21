@@ -18,9 +18,8 @@ i like shipping things fast, running long distances slowly, and finding the fun 
 
 | Project | What it is |
 |---|---|
-| 🏰 **[Avalon Online](https://play-avalon.lovable.app)** | web app for the social deduction board game — notes, strategy, betrayal |
 | 🏡 **[Dillow](https://dillow.vercel.app)** | daily real-estate price-guessing game — guess the home's price in 5 tries |
-| 🎱 **[Pool Queue](https://pool-queue.lovable.app)** | real-time queue management for pool tables |
+| 🏰 **[Avalon Online](https://play-avalon.lovable.app)** | web app for the social deduction board game — notes, strategy, betrayal |
 | 🍲 **[Potlucky](https://potlucky-seven.vercel.app)** | coordinate potlucks without the "i'll bring napkins" problem |
 | 🔍 **[Whomst.info](https://whomst.info)** | check domain availability over iMessage |
 
