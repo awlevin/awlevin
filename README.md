@@ -16,10 +16,10 @@ i like shipping things fast, running long distances slowly, and finding the fun 
 
 #### what i'm building lately
 
-| | |
+| Project | What it is |
 |---|---|
 | 🏰 **[Avalon Online](https://play-avalon.lovable.app)** | web app for the social deduction board game — notes, strategy, betrayal |
-| 🃏 **[Trading Card Creator](https://trading-card-creator.replit.app)** | upload a photo, get a Yu-Gi-Oh or Pokémon card back |
+| 🏡 **[Dillow](https://dillow.vercel.app)** | daily real-estate price-guessing game — guess the home's price in 5 tries |
 | 🎱 **[Pool Queue](https://pool-queue.lovable.app)** | real-time queue management for pool tables |
 | 🍲 **[Potlucky](https://potlucky-seven.vercel.app)** | coordinate potlucks without the "i'll bring napkins" problem |
 | 🔍 **[Whomst.info](https://whomst.info)** | check domain availability over iMessage |
@@ -28,17 +28,11 @@ i like shipping things fast, running long distances slowly, and finding the fun 
 
 #### OG projects
 
-| | |
+| Project | What it is |
 |---|---|
 | 🕹️ **[DDR on Tiva Launchpad](https://github.com/shyamal-anadkat/DDR-On-Tiva-Launchpad)** | dance dance revolution on a cortex-M4 microcontroller |
 | 🖥️ **[WiscArchitecture](https://github.com/awlevin/WiscArchitecture)** | a fully functional processor with a proprietary instruction set architecture |
 | 🌽 **[Cornhole Fiesta](https://github.com/awlevin/cornhole-fiesta)** | automated cornhole scoring |
-
----
-
-#### olaf 🦞
-
-my AI assistant. chaos gremlin. built seven projects and has **[his own portfolio](https://olafs-world.vercel.app/)** to prove it. i am his human.
 
 ---
 
