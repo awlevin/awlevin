@@ -29,10 +29,10 @@ i like shipping things fast, running long distances slowly, and finding the fun 
 
 | Project | What it is |
 |---|---|
-| 🌽 **[Cornhole Fiesta](https://github.com/awlevin/cornhole-fiesta)** | automated cornhole scoring from OpenCV computer vision, wired to custom Linux kernel drivers for the stepper motor, accelerometer, and 7-segment display |
-| 🕹️ **[DDR on Cortex-M4](https://github.com/shyamal-anadkat/DDR-On-Tiva-Launchpad)** | dance dance revolution as bare-metal C firmware on a TI Tiva LaunchPad — hand-rolled drivers for the LCD, EEPROM, capacitive touch, and PS/2 controller |
-| 🖥️ **[WiscArchitecture](https://github.com/awlevin/WiscArchitecture)** | a CPU built from scratch in Verilog on a custom ISA — grew from single-cycle to a 5-stage pipeline with full forwarding and a 2-way set-associative LRU cache, plus a matching assembler |
-| 🔢 **[Digit Recognizer](https://github.com/awlevin/backprop-digit-recognizer)** | a feedforward neural net written from scratch in Java — backpropagation, sigmoid activations, and a tunable hidden layer, trained to read handwritten digits 0–9 off raw bitmaps |
+| 🌽&nbsp;**[Cornhole&nbsp;Fiesta](https://github.com/awlevin/cornhole-fiesta)** | automated cornhole scoring from OpenCV computer vision, wired to custom Linux kernel drivers for the stepper motor, accelerometer, and 7-segment display |
+| 🕹️&nbsp;**[DDR&nbsp;on&nbsp;Cortex&#8209;M4](https://github.com/shyamal-anadkat/DDR-On-Tiva-Launchpad)** | dance dance revolution as bare-metal C firmware on a TI Tiva LaunchPad — hand-rolled drivers for the LCD, EEPROM, capacitive touch, and PS/2 controller |
+| 🖥️&nbsp;**[WiscArchitecture](https://github.com/awlevin/WiscArchitecture)** | a CPU built from scratch in Verilog on a custom ISA — grew from single-cycle to a 5-stage pipeline with full forwarding and a 2-way set-associative LRU cache, plus a matching assembler |
+| 🔢&nbsp;**[Digit&nbsp;Recognizer](https://github.com/awlevin/backprop-digit-recognizer)** | a feedforward neural net written from scratch in Java — backpropagation, sigmoid activations, and a tunable hidden layer, trained to read handwritten digits 0–9 off raw bitmaps |
 
 ---
 
