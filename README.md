@@ -18,10 +18,12 @@ i like shipping things fast, running long distances slowly, and finding the fun 
 
 | Project | What it is |
 |---|---|
+| 🖱️ **[Jev&nbsp;Computer&nbsp;Use](https://github.com/awlevin/typesafe-computer-use)** | computer use for ~$0.0002 a step — OCR the screen, classify the next action with TypeSafe, click |
+| 🎵 **[Music&nbsp;Mania](https://music-mania-three.vercel.app)** | party name-that-tune — one big screen plays the song, everyone races to name it from their phone |
+| 🧑‍🍳 **[Opencooked](https://overcooked-bay.vercel.app)** | co-op kitchen chaos — your laptop is the console, every phone in the room is a controller |
+| 🗣️ **[Spoken&nbsp;Text](https://spoken-text.vercel.app)** | react component that reads your text aloud and lights up each word as it's spoken |
 | 🏡 **[Dillow](https://dillow.vercel.app)** | daily real-estate price-guessing game — guess the home's price in 5 tries |
-| 🏰 **[Avalon Online](https://play-avalon.lovable.app)** | web app for the social deduction board game — notes, strategy, betrayal |
 | 🍲 **[Potlucky](https://potlucky-seven.vercel.app)** | coordinate potlucks without the "i'll bring napkins" problem |
-| 🔍 **[Whomst.info](https://whomst.info)** | check domain availability over iMessage |
 
 ---
 
